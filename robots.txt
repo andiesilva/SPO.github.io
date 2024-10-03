@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://spo.github.io/sitemap.xml
+Sitemap: https://andiesilva.github.io/spo/sitemap.xml
